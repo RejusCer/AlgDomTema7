@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\AlgDomTema7\bin\Debug\AlgDomTema7.exe.config
+C:\Users\PC\source\repos\AlgDomTema7\bin\Debug\AlgDomTema7.exe
+C:\Users\PC\source\repos\AlgDomTema7\bin\Debug\AlgDomTema7.pdb
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.Properties.Resources.resources
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.exe
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.pdb
+C:\Users\PC\source\repos\AlgDomTema7\obj\Debug\AlgDomTema7.Form1.resources
